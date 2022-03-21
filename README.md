@@ -20,8 +20,8 @@ I am currently pursuing my Bachelors in Computer Science at University of Genoa.
 
 
 # My Github stats
-![LorenzoLaCorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoLaCorte-ux&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoLaCorte-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![LorenzoLaCorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoLaCorte&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoLaCorte&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>Connect with me on
