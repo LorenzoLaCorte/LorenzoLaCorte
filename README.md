@@ -1,7 +1,7 @@
 # Hello :wave:, I am Lax 😃 
 - A Computer Scientist :sparkles:
-- A Web Developer :computer:
-- Cyber Security Guy :new_moon_with_face:
+-  :computer:
+-  :new_moon_with_face:
 
 # About me
 I am currently pursuing my Bachelors in Computer Science at University of Genoa.
