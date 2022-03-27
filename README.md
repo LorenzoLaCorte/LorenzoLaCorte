@@ -1,7 +1,7 @@
-# Hello :wave:, I am Lax 😃 
-- A Computer Scientist :sparkles:
--  :computer:
--  :new_moon_with_face:
+# Helloooooo I am Lax 😃 
+- A Computer Scientist :computer:
+- A Video Editor 
+- A Taekwondo Black Belt II Dan, Instructor and Referee 
 
 # About me
 I am currently pursuing my Bachelors in Computer Science at University of Genoa.
