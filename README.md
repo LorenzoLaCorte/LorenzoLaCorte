@@ -1,10 +1,11 @@
 # Helloooooo I am Lax 😃 
-- A Computer Scientist :computer:
-- A Video Editor 
-- A Taekwondo Black Belt II Dan, Instructor and Referee 
+- A Computer Scientist 💻
+- A Video Editor 📹
+- A Taekwondo Black Belt II Dan 🥋, Coach (certificated level 1 trainer) 👊 and Referee 👨‍⚖️
 
 # About me
-I am currently pursuing my Bachelors in Computer Science at University of Genoa.
+I am 22, I live in Genoa and I am currently pursuing my Bachelors in Computer Science at University of Genoa.
+I'm deeply interested in the arts of programming and of video making but I also play sports and play music (guitar and piano).
 
 # Technologies used
 
