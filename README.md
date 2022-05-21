@@ -1,4 +1,4 @@
-# Helloooooo I am Lax 😃 
+# Helloooooo I am Lax
 - A Computer Scientist 💻
 - A Video Editor 📹
 - A Taekwondo Black Belt II Dan 🥋, Coach (certificated level 1 trainer) 👊 and Referee 👨‍⚖️
