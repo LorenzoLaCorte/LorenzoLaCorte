@@ -8,11 +8,10 @@ I am 22, I live in Genoa and I am currently pursuing my Bachelors in Computer Sc
 I'm deeply interested in the arts of programming and of video making but I also play sports and play music (guitar and piano).
 
 # Technologies used
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></code>
 
 # My Github stats
 ![LorenzoLaCorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoLaCorte&hide=issues&show_icons=true&theme=gotham)
