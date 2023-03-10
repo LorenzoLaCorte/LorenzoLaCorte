@@ -4,8 +4,8 @@
 - A Taekwondo Black Belt II Dan 🥋, Coach (certificated level 1 trainer) 👊 and Referee 👨‍⚖️
 
 # About me
-I am 22, I live in Genoa and I am currently pursuing my MSc in Software Security and Engeneering, University of Genoa.
-I'm deeply interested in the arts of programming, video making and kicking asses.
+I am 23, I live in Genoa and I am currently pursuing my MSc in Software Security and Engeneering, University of Genoa.
+I'm deeply interested in programming, video making and kicking asses.
 
 # Technologies used
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
