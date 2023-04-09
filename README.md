@@ -11,12 +11,12 @@ I'm deeply interested in programming, video making and kicking asses.
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
+<code><img height="40" width="40" src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"></code>
 
 # My Github stats
 ![LorenzoLaCorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoLaCorte&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoLaCorte&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <p>Connect with me on
 <br>	
