@@ -2,8 +2,10 @@
 
 I am 23, I live in Genoa and I am currently pursuing my MSc in Software Security and Engeneering, University of Genoa.
 
-[comment]: # My Github stats
-[comment]: ![LorenzoLaCorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoLaCorte&hide=issues&show_icons=true&theme=gotham)
+<!---
+ # My Github stats
+ ![LorenzoLaCorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoLaCorte&hide=issues&show_icons=true&theme=gotham)
+-->
 
 <p>
   
