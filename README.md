@@ -1,6 +1,6 @@
 # Helloooooo I am Lax :)
 
-I am 23, I live in Genoa and I am currently pursuing my MSc in Software Security and Engeneering, University of Genoa.
+23 years old student, currently pursuing my MSc in Software Security and Engineering at University of Genoa.
 
 <!---
  # My Github stats
