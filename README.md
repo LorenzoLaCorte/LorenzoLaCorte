@@ -19,7 +19,7 @@ I'm currently working on university and personal projects, while competing in so
 
 ## 💡 What I am currently working on
 
-- [**MSc Second Year Courses*](https://lorenzolacorte.github.io/university-courses-showcase/): High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
+- [**MSc Second Year Courses**](https://lorenzolacorte.github.io/university-courses-showcase/): High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
 - [**European Tech Internships Repository**](https://github.com/LorenzoLaCorte/european-tech-internships-2024): A collection of tech internships around europe.
 - [**European Tech Internships Scraper**](https://github.com/LorenzoLaCorte/internship-scraper): Engineering Internships Scraper, developed to scrape european tech internships.
 - SWERC Contest Preparation.
