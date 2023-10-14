@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I+am+Lax](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Lax)](https://git.io/typing-svg)
 
 <!---
  # My Github stats
@@ -8,7 +8,7 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='200'>
 
-![status](https://img.shields.io/badge/student-8A2BE2) ![looking-for](https://img.shields.io/badge/internships-research%opportunities-blue)
+![status](https://img.shields.io/badge/student-8A2BE2) ![looking-for](https://img.shields.io/badge/internships-research%20opportunities-blue)
 
 Hi guys, I'm **Lorenzo La Corte**. I am a Software Secuirty and Engineering Student from Genoa, Italy. 
 I'm currently working on university and personal projects, while competing in some CTFs and Competitive Programming Contests.  
