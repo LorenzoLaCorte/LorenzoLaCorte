@@ -15,7 +15,7 @@ I'm currently working on university and personal projects, while competing in so
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][0] | [Instagram][1] | ✉️ [Email](mailto:lorenzolacorte99@gmail.com) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+[LinkedIn][0] | [Instagram][1] | ✉️ [Email](mailto:lorenzolacorte99@gmail.com) | 💬 [Issue](https://github.com/LorenzoLaCorte/LorenzoLaCorte/issues) Me about everything!
 
 ## 💡 What I am currently working on
 
