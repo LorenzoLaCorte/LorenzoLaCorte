@@ -10,19 +10,19 @@
 
 ![status](https://img.shields.io/badge/student-8A2BE2) ![looking-for](https://img.shields.io/badge/internships-research%20opportunities-blue)
 
-Hi guys, I'm **Lorenzo La Corte**. I am a Software Secuirty and Engineering Student from Genoa, Italy. 
+Hi guys, I'm **Lorenzo La Corte**. I am a Software Security and Engineering Student from Genoa, Italy. 
 I'm currently working on university and personal projects, while competing in some CTFs and Competitive Programming Contests.  
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][0] | [Instagram][1] | ✉️ [Email](mailto:lorenzolacorte99@gmail.com) | 💬 [Issue](https://github.com/LorenzoLaCorte/LorenzoLaCorte/issues) Me about everything!
+[LinkedIn][0] | [Instagram][1] | ✉️ [Email][2] | 💬 [Issue][3] Me about everything!
 
 ## 💡 What I am currently working on
-
-- [**MSc Second Year Courses**](https://lorenzolacorte.github.io/university-courses-showcase/): High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
-- [**European Tech Internships Repository**](https://github.com/LorenzoLaCorte/european-tech-internships-2024): A collection of tech internships around europe.
-- [**European Tech Internships Scraper**](https://github.com/LorenzoLaCorte/internship-scraper): Engineering Internships Scraper, developed to scrape european tech internships.
-- SWERC Contest Preparation.
+- **Master's Thesis Reseach**, from April to September 2024.
+- [**MSc Second Year Courses**][4]: High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
+- [**European Tech Internships Repository**][5] and [**European Tech Internships Scraper**][6]: a collection and a scraper for european tech internships.
+- CTFs, programming competitions, hackatons, ...
+- Interview preparation for new grad positions 👀
 
 ## 📚 Articles 
 
@@ -30,3 +30,8 @@ I'm currently working on university and personal projects, while competing in so
 
 [0]: https://www.linkedin.com/in/lorenzo-la-corte-0b96a0167
 [1]: https://www.instagram.com/lorenzolacorte99
+[2]: mailto:lorenzolacorte99@gmail.com
+[3]: https://github.com/LorenzoLaCorte/LorenzoLaCorte/issues
+[4]: https://lorenzolacorte.github.io/university-courses-showcase/
+[5]: https://github.com/LorenzoLaCorte/european-tech-internships-2024
+[6]: https://github.com/LorenzoLaCorte/internship-scraper
