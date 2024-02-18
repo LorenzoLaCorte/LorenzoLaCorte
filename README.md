@@ -15,10 +15,10 @@ I'm currently working on university and personal projects, while competing in so
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][0] | [Instagram][1] | ✉️ [Email][2] | 💬 [Issue][3] Me about everything!
+[LinkedIn][0] | [Instagram][1] | ✉️ [Email][2] | 💬 [Issue me][3] about everything!
 
 ## 💡 What I am currently working on
-- **Master's Thesis Reseach**, from April to September 2024.
+- **Master's Thesis Research**, from April to September 2024.
 - [**MSc Second Year Courses**][4]: High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
 - [**European Tech Internships Repository**][5] and [**European Tech Internships Scraper**][6]: a collection and a scraper for european tech internships.
 - CTFs, programming competitions, hackatons, ...
