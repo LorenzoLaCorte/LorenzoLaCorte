@@ -17,7 +17,8 @@ Hi everyone! I am **Lorenzo La Corte**, a Software Security and Engineering Stud
 [LinkedIn][0] | [Instagram][1] | ✉️ [Email][2] | 💬 [Issue me][3] about everything!
 
 ## 💡 What I am currently working on
-- [**Master's Thesis Research, Okinawa Institute of Science and Technology**][7], from April to September 2024.
+- **Master's Thesis Research - [Research Internship][7] at the [Okinawa Institute of Science and Technology][9]**, from April to September 2024.
+
   [Networked Quantum Devices Unit][8] - Thesis on Optimization of Quantum Repeater Chains
 - (just finished) [**MSc Second Year Courses**][4]: High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
 - [**European Tech Internships Repository**][5] and [**European Tech Internships Scraper**][6]: a collection and a scraper for european tech internships.
@@ -37,3 +38,4 @@ Hi everyone! I am **Lorenzo La Corte**, a Software Security and Engineering Stud
 [6]: https://github.com/LorenzoLaCorte/internship-scraper
 [7]: https://groups.oist.jp/netq/post/2024/04/13/unit-members-new-research-intern
 [8]: https://groups.oist.jp/netq
+[9]: https://www.oist.jp/
