@@ -16,18 +16,20 @@ Hi everyone! I am **Lorenzo La Corte**, a Software Security and Engineering Stud
 
 [LinkedIn][0] | [Instagram][1] | ✉️ [Email][2] | 💬 [Issue me][3] about everything!
 
-## 💡 What I am currently working on
-- **Master's Thesis Research - [Research Internship][7] at the [Okinawa Institute of Science and Technology][9]**, from April to September 2024.
-
+## 💡 What I am currently working on...
+- (in progress) **Research Internship in Software Systems, Hitachi Energy - Switzerland, Baden-Daettwil (Zürich Metropolitan Area)**, from October 2024 to March 2025.
+- (wrapping up) **Master's Thesis Research** - Linked to my **[Research Internship][7] at the [Okinawa Institute of Science and Technology][9]** from April to September 2024.
   [Networked Quantum Devices Unit][8] - Thesis on Optimization of Quantum Repeater Chains
-- (just finished) [**MSc Second Year Courses**][4]: High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
-- [**European Tech Internships Repository**][5] and [**European Tech Internships Scraper**][6]: a collection and a scraper for european tech internships.
-- CTFs, programming competitions, hackatons, ...
-- Interested in new grad and PhD positions 👀
+- (finished) [**MSc Second Year Courses**][4]: High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
+- (ongoing) [**European Tech Internships Repository**][5] and [**European Tech Internships Scraper**][6]: a collection and a scraper for european tech internships.
+
+## 💡 I am...
+- Interested in hackatons, CTFs, programming competitions, ...
+- Looking for a new graduate / PhD position starting after April 2025, feel free to reach out!
 
 ## 📚 Articles 
 
-**[Here you can find a list of my university projects 📖](https://lorenzolacorte.github.io/university-courses-showcase/)**. 
+**[Here you can find a list of my university projects 📖][4]**. 
 
 [0]: https://www.linkedin.com/in/lorenzo-la-corte-0b96a0167
 [1]: https://www.instagram.com/lorenzolacorte99
