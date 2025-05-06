@@ -17,15 +17,16 @@ Hi everyone! I am **Lorenzo La Corte**, a Software Security and Engineering Stud
 [LinkedIn][0] | [Instagram][1] | ✉️ [Email][2] | 💬 [Issue me][3] about everything!
 
 ## 💡 What I am currently working on...
-- (in progress) **Research Internship in Software Systems, Hitachi Energy - Switzerland, Baden-Daettwil (Zürich Metropolitan Area)**, from October 2024 to March 2025.
-- (wrapping up) **Master's Thesis Research** - Linked to my **[Research Internship][7] at the [Okinawa Institute of Science and Technology][9]** from April to September 2024.
-  [Networked Quantum Devices Unit][8] - Thesis on Optimization of Quantum Repeater Chains
+- (wrapping up) **Research Internship in Software Systems, Hitachi Energy - Switzerland, Baden-Daettwil (Zürich Metropolitan Area)**, from October 2024 to March 2025.
+  System and Automation R&D Group - [Performance Evaluation of Brokerless Messaging Systems][11]
+- (finished) **Master's Thesis Research** - Linked to my **[Research Internship][7] at the [Okinawa Institute of Science and Technology][9]** from April to September 2024.
+  [Networked Quantum Devices Unit][8] - Thesis on Optimization of Quantum Repeater Chains - Accepted at QCNC2025, in [pre-print][10]
 - (finished) [**MSc Second Year Courses**][4]: High Performance Computing, Binary Analysis and Secure Coding, Capstone Project and Blockchain and Distributed Ledger.
 - (ongoing) [**European Tech Internships Repository**][5] and [**European Tech Internships Scraper**][6]: a collection and a scraper for european tech internships.
 
 ## 💡 I am...
 - Interested in hackatons, CTFs, programming competitions, ...
-- Looking for a new graduate / PhD position starting after April 2025, feel free to reach out!
+- Looking for a new graduate / PhD position starting in Fall 2025, feel free to reach out!
 
 ## 📚 Articles 
 
@@ -41,3 +42,5 @@ Hi everyone! I am **Lorenzo La Corte**, a Software Security and Engineering Stud
 [7]: https://groups.oist.jp/netq/post/2024/04/13/unit-members-new-research-intern
 [8]: https://groups.oist.jp/netq
 [9]: https://www.oist.jp/
+[10]: https://arxiv.org/abs/2502.02208
+[11]: https://github.com/hitachienergy/messaging-libraries-benchmark
